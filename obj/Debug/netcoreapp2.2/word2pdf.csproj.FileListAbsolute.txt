@@ -1,0 +1,11 @@
+C:\Users\dannier_huang\source\repos\word2pdf\bin\Debug\netcoreapp2.2\word2pdf.deps.json
+C:\Users\dannier_huang\source\repos\word2pdf\bin\Debug\netcoreapp2.2\word2pdf.runtimeconfig.json
+C:\Users\dannier_huang\source\repos\word2pdf\bin\Debug\netcoreapp2.2\word2pdf.runtimeconfig.dev.json
+C:\Users\dannier_huang\source\repos\word2pdf\bin\Debug\netcoreapp2.2\word2pdf.dll
+C:\Users\dannier_huang\source\repos\word2pdf\obj\Debug\netcoreapp2.2\word2pdf.csprojAssemblyReference.cache
+C:\Users\dannier_huang\source\repos\word2pdf\obj\Debug\netcoreapp2.2\word2pdf.csproj.CoreCompileInputs.cache
+C:\Users\dannier_huang\source\repos\word2pdf\obj\Debug\netcoreapp2.2\word2pdf.AssemblyInfoInputs.cache
+C:\Users\dannier_huang\source\repos\word2pdf\obj\Debug\netcoreapp2.2\word2pdf.AssemblyInfo.cs
+C:\Users\dannier_huang\source\repos\word2pdf\bin\Debug\netcoreapp2.2\word2pdf.pdb
+C:\Users\dannier_huang\source\repos\word2pdf\obj\Debug\netcoreapp2.2\word2pdf.dll
+C:\Users\dannier_huang\source\repos\word2pdf\obj\Debug\netcoreapp2.2\word2pdf.pdb

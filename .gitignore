@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+
+/src/HighPot.Api/obj
+/src/.vs
+/.vs
+/src/HighPot.UI/.chrome
+/src/HighPot.Api/Properties/serviceDependencies.json
+/src/HighPot.Api/Properties/serviceDependencies.local.json
+/src/HighPot.Api/yarn.lock
+src/HighPot.Api/appsettings.json
+src/HighPot.UI/package-lock.json
+/src/HighPot.UI/.vscode
+/src/HighPot.Api/.vscode
+/src/HighPot.Api/Mediator/Notifications/BusinessNotificationHandler.cs
+/src/HighPot.Api/Mediator/Notifications/Business/BusinessNotification.cs
